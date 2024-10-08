@@ -1,0 +1,12 @@
+Make a TS file with extension .ts 
+Write some code
+Run it with ts 
+JS file will be generated
+make html file
+add js file into html file
+add on chrome
+
+
+# Typescript is strong typed superset of Javascript
+
+# Modern Browser by default does not understand Typescript, rather it understand only JS 
